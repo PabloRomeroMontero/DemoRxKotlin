@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoRxKotlin</string>
+    <string name="character_s_name">Character\'s name</string>
+    <string name="hint_example_edit_text">Han solo, Luke Skywalker....</string>
+    <string name="search">Search</string>
+    <string name="its_Empty">Esta Vacio TT</string>
+    <string name="Error">ERROR</string>
+</resources>
